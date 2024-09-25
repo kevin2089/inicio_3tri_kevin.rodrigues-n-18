@@ -8,12 +8,17 @@ h1 {text-align: center;
 }
 
 #imagem1 {width: 40%;
-    border-color: blueviolet;
+    border-color: rgb(34, 0, 129);
     border-style: double;
     border-width: 10px;
 }
 
-#imagem2 {width: 40%;}
+#imagem2 {width: 40%;
+    border-color: gray;
+    border-style: double;
+    border-width: 10px;
+
+}
 
 h2 {background-color: brown;
     margin-right: 76%;
