@@ -8,13 +8,13 @@ h1 {text-align: center;
 }
 
 #imagem1 {width: 40%;
-    border-color: rgb(34, 0, 129);
+    border-color: rgb(91, 90, 95);
     border-style: double;
     border-width: 10px;
 }
 
 #imagem2 {width: 40%;
-    border-color: gray;
+    border-color: rgb(87, 82, 82);
     border-style: double;
     border-width: 10px;
 }
