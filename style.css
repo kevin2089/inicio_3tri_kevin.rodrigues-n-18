@@ -8,6 +8,9 @@ h1 {text-align: center;
 
 #imagem3 {margin-right: 10%;
     width: 100%;
+    border-style: dashed;
+    border-style: 20px;
+    border-color: black;
 
 }
 
@@ -37,6 +40,7 @@ h3 {font-size: 25px;}
 
 h4 {background-color: brown;
     font-size: 50px;
+    margin-right: 76%;
 
 }
 
