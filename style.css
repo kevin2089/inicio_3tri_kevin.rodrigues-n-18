@@ -16,13 +16,13 @@ h1 {text-align: center;
 
 #imagem1 {width: 40%;
     border-color: rgb(19, 3, 83);
-    border-style: double;
+    border-style: ddashed;
     border-width: 10px;
 }
 
 #imagem2 {width: 40%;
     border-color: rgb(77, 67, 67);
-    border-style: double;
+    border-style: ddashed;
     border-width: 10px;
 }
 
