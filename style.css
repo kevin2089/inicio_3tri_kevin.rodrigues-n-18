@@ -26,13 +26,15 @@ h1 {text-align: center;
     border-width: 10px;
 }
 
-h2 {background-color: brown;
-    margin-right: 76%;
+h2 {background-color: rgb(90, 97, 91);
+    border-style: dashed;
+    border-width: 20px;
 
 }
 
-h3 {background-color: brown;
-    margin-right: 73%;
+h3 {background-color: rgb(42, 44, 165);
+    border-style: dashed;
+    border-width: 20px;
 
 }
 
@@ -42,6 +44,7 @@ h4 {background-color: rgb(240, 116, 0);
     font-size: 50px;
     margin-right: 50%;
     border-style: dashed;
+    border-width: 20px;
 
 
 }
