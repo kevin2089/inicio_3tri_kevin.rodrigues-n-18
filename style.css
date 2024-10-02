@@ -16,13 +16,13 @@ h1 {text-align: center;
 
 #imagem1 {width: 40%;
     border-color: rgb(19, 3, 83);
-    border-style: ddashed;
+    border-style: dashed;
     border-width: 10px;
 }
 
 #imagem2 {width: 40%;
     border-color: rgb(77, 67, 67);
-    border-style: ddashed;
+    border-style: dashed;
     border-width: 10px;
 }
 
@@ -38,9 +38,11 @@ h3 {background-color: brown;
 
 h3 {font-size: 25px;}
 
-h4 {background-color: brown;
+h4 {background-color: rgb(240, 116, 0);
     font-size: 50px;
     margin-right: 76%;
+    border-style: dashed;
+    
 
 }
 
