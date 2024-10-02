@@ -1,5 +1,7 @@
 h1 {text-align: center;
     background-color: brown;
+    border-style: dashed;
+    border-width: 20px;
 }
 
 #imagem3 {margin-right: 10%;
