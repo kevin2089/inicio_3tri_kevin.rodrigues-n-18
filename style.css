@@ -4,6 +4,7 @@ h1 {text-align: center;
     background-color: brown;
     border-style: dashed;
     border-width: 20px;
+    margin-right: 50%;
 }
 
 #imagem3 {margin-right: 10%;
@@ -29,12 +30,16 @@ h1 {text-align: center;
 h2 {background-color: rgb(90, 97, 91);
     border-style: dashed;
     border-width: 20px;
+    font-size: 50px;
+    margin-right: 50%;
 
 }
 
 h3 {background-color: rgb(42, 44, 165);
     border-style: dashed;
     border-width: 20px;
+    font-size: 50px;
+    margin-right: 50%;
 
 }
 
